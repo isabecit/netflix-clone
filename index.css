@@ -1,0 +1,113 @@
+body{
+  background-image:url("https://assets.nflxext.com/ffe/siteui/vlv3/efb4855d-e702-43e5-9997-bba0154152e0/c1eea051-07ec-4050-aeb5-6eaccb0ace2b/TR-en-20230417-popsignuptwoweeks-perspective_alpha_website_large.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.kutu-bas{
+  display: flex;
+  justify-content: center;
+  margin-top:11%;
+}
+
+
+.genel-kutu{
+  background-color:rgba(0,0,0,.75);
+  display: flex;
+  flex-direction: column; 
+  border-radius: 5px;
+  min-width: 380px;
+  padding: 30px;
+  box-sizing: border-box;
+  align-items: center;
+  
+
+ 
+
+
+  
+}
+
+ .kutu-bas .baslik h1{
+  color: aliceblue;
+ 
+ 
+  
+  
+}
+
+.inputlar {
+
+}
+
+
+.inputlar  input{
+  background-color:#333;
+  display: flex;
+justify-content: center;
+flex-direction: column;
+border-radius: 4px;
+padding: 20px;
+border: none; 
+margin-top: 10px;
+width: 330px;
+  
+
+}
+
+.buton button {
+  background-color: #e50914;
+  color:#fff; 
+  margin-top: 25px;
+  padding: 20px;
+  width:370px;
+  border:none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+}
+ 
+
+.onay-kutusu {
+
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+ .onay-kutusu div {  
+  color: #b3b3b3;
+ }
+
+ .onay-kutusu input {
+    
+  display: flex;
+}
+
+.ceks{
+ 
+  display: flex;
+ 
+
+}
+
+.son-bolum h2 {
+  display: flex;
+  color: #737373;
+  font-size: 16px;
+  margin-top: 45px;
+  
+}
+
+.son-bolum a{
+  margin-left: 5px;
+  color: #fff;
+  font-size: 16px;
+  text-decoration:none;
+  }
+
+  .son-bolum p {
+    color: #8c8c8c;
+  }
